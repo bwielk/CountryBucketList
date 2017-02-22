@@ -1,7 +1,6 @@
 {
   "name": "webpack_start_point",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -14,5 +13,14 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwielk/CountryBucketList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bwielk/CountryBucketList/issues"
+  },
+  "homepage": "https://github.com/bwielk/CountryBucketList#readme",
+  "description": ""
 }
